@@ -1,0 +1,10 @@
+{
+    "name": "WEATHER",
+    "version": "1.0.0",
+    "description": "A simple waether app",
+    "main": "index.js",
+    "dependencies": {},
+    "scripts": {
+      "start": "node start.js",
+    }
+}
